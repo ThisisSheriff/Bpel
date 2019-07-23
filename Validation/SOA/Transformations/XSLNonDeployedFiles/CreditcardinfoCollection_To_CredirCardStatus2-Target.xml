@@ -1,0 +1,2 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<tns:CredirCardStatus xmlns:jca="http://xmlns.oracle.com/pcbpel/wsdl/jca/" xmlns:ns2="http://oracle.com/sca/soapservice/POProcessing/ValidationforCC/getStatusbyCC" xmlns:ns1="http://xmlns.oracle.com/pcbpel/adapter/db/POProcessing/ValidationforCC/getCreditcardValidation" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:plt="http://schemas.xmlsoap.org/ws/2003/05/partner-link/" xmlns:tns="http://www.example.org">string10</tns:CredirCardStatus>
