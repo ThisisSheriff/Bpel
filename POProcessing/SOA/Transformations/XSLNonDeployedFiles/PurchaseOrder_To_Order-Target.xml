@@ -1,0 +1,14 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ns0:Order xmlns:jca="http://xmlns.oracle.com/pcbpel/wsdl/jca/" xmlns:ns1="http://xmlns.oracle.com/pcbpel/adapter/file/POProcessing/POProcessing/WriteApprovalResults" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://oracle.com/sca/soapservice/POProcessing/POProcessing/receivePO" xmlns:plt="http://schemas.xmlsoap.org/ws/2003/05/partner-link/" xmlns:ns0="http://xmlns.oracle.com/ns/order">
+   <ns0:customerId>CustID10</ns0:customerId>
+   <ns0:orderId>ID11</ns0:orderId>
+   <ns0:prodName>productName12</ns0:prodName>
+   <ns0:itemType>itemType13</ns0:itemType>
+   <ns0:price>14</ns0:price>
+   <ns0:qty>15</ns0:qty>
+   <ns0:status>status16</ns0:status>
+   <ns0:creditCardInfo>
+      <ns0:cardNumber>ccNumber18</ns0:cardNumber>
+      <ns0:cardType>ccType17</ns0:cardType>
+   </ns0:creditCardInfo>
+</ns0:Order>
